@@ -1,4 +1,4 @@
-class Solution {
+class NAndItsDouble_lvl2 {
     public boolean checkIfExist(int[] arr) { 
         int half=0,flag=0;
         Arrays.sort(arr);      

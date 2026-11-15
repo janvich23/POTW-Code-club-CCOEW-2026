@@ -1,4 +1,4 @@
-class Solution {    
+class SuccessfulPairs_lvl1 {    
     int low,mid,high,least;
     public int[] successfulPairs(int[] spells, int[] potions, long success) {
         int n=spells.length,m=potions.length;        

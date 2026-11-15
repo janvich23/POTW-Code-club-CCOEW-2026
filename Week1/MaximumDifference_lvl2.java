@@ -1,4 +1,4 @@
-class Solution {
+class MaximumDifference_lvl2 {
     public int maxAdjacentDistance(int[] nums) {
         int max=0,now=0;
         for(int i=0;i<nums.length;i++) {

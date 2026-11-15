@@ -1,4 +1,4 @@
-class Solution {
+class HeightChecker_lvl1 {
     public int heightChecker(int[] heights) {
         int n=heights.length,count=0;
         int[] expected=new int[n];

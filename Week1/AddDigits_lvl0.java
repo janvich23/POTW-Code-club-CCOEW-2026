@@ -1,4 +1,4 @@
-class Solution {
+class AddDigits_lvl0 {
     public int addDigits(int num) {
         int rem=check(num);
         while(true) {

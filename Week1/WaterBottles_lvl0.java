@@ -1,4 +1,4 @@
-class Solution {
+class WaterBottles_lvl0 {
     public int numWaterBottles(int numBottles, int numExchange) {        
         int drunk=numBottles+numBottles/numExchange;
         int extra=numBottles/numExchange+(numBottles%numExchange);

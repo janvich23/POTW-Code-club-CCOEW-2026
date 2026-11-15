@@ -1,4 +1,4 @@
-class MoveZeroes_lvl0 {
+class MoveZeroes_level0 {
     public void moveZeroes(int[] nums) {
         int n=nums.length,zeroptr=0,numptr=0;
         for(int i=0;i<n;i++) {
